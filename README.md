@@ -12,4 +12,9 @@ Het werkend voorbeeld via RawGit is te zien op:
 
 De pagina index.html dient lokaal of op een andere server gedraaid te worden. Dit voorbeeld gebruikt namelijk een externe webservice, die niet via RawGit werkend te zien is.
 
+Overzicht ministeries (met HTMAPL)
+----------------------------------
+Dit voorbeeld toont hoe een HTML lijst op een kaart afgebeeld kan worden. Het voorbeeld gebruikt data-attributen in HTML en de JavaScript bibliotheek HTMAPL.
+
+
 
